@@ -6,7 +6,7 @@ The model is deployed as a **live web app using Streamlit Community Cloud**.
 ---
 
 ## 🚀 Live Demo
-🔗 https://iris-naive-bayes-app-pn7khjjauhfq42nffyjp.streamlit.app
+🔗 https://iris-naive-bayes-app-todhvpzybzzbkj35pjn4dj.streamlit.app/
 
 ---
 
